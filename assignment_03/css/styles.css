@@ -17,6 +17,11 @@ li {
   text-decoration: underline;
 }
 
+.highlight {
+  color: white !important;
+  text-decoration: underline;
+}
+
 img {
   border-radius: 6px;
   margin: 20px auto;
