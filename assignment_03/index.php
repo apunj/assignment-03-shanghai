@@ -30,9 +30,6 @@
 <div class="container">
 <h3 class = "headFont">Design Artist: Zhenghao Yang</h3>
 
-
-<h3>Design Artist: Zhenghao Yang</h3>
-
 <ul>
   <li>Responsible for maintaining readability of web pages and ensuring a professional and stylish presentation of the content.</li>
 <li>Set up the consistant layout on the three student pages. Modify the layout on the homepage to make the slider javascript best fit for the homepage.</li>
