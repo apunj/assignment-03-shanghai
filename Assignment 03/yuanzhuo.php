@@ -1,21 +1,5 @@
-<!doctype html>
+<?php include 'html-top.inc.php';?>
 
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-
-  <title>The HTML5 Herald</title>
-  <meta name="description" content="The HTML5 Herald">
-  <meta name="author" content="SitePoint">
-
-  <link rel="stylesheet" href="css/styles.css?v=1.0">
-
-  <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
-  <![endif]-->
-</head>
-<!--> This is just the template form the original page! Let me know what to add on!<!-->
-<body>
 <h1>Yuanzhuo Wang - Information Architect</h1>
 <h2>Computer Science Major, Class of 2021</h2>
 <h3>About Me</h3>
