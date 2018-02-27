@@ -1,6 +1,20 @@
 
 body {
   background: rgb(183, 203, 173);
+  font-family: 'Open Sans', sans-serif;
+}
+
+li {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.headFont {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.highlight {
+  color: white !important;
+  text-decoration: underline;
 }
 
 img {

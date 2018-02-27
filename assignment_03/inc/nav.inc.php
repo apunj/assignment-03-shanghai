@@ -4,18 +4,18 @@
     <div class="navbar-collapse">
         <ul class="navbar-nav">
           <li class="nav-item">
-              <a class="nav-link" href="index.php">Home</a>
+              <a class="nav-link <?php if($page=='home'){echo 'highlight';}?>" href="index.php">Home</a>
           </li>
         </ul>
         <ul class="navbar-nav ml-auto">
             <li class="nav-item">
-                <a class="nav-link" href="yidi.php">Yidi</a>
+                <a class="nav-link <?php if($page=='yidi'){echo 'highlight';}?>" href="yidi.php">Yidi</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="yuanzhuo.php">Yuanzhuo</a>
+                <a class="nav-link <?php if($page=='yuanzhuo'){echo 'highlight';}?>" href="yuanzhuo.php">Yuanzhuo</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="zhenghao.php">Zhenghao</a>
+                <a class="nav-link <?php if($page=='zhenghao'){echo 'highlight';}?>" href="zhenghao.php">Zhenghao</a>
             </li>
         </ul>
     </div>
