@@ -4,7 +4,15 @@ body {
   font-family: 'Open Sans', sans-serif;
 }
 
-li {
+.centered {
+  text-align: center;
+}
+
+.gray {
+  color: rgb(90, 94, 96);
+}
+
+li, p {
   font-family: 'Open Sans', sans-serif;
 }
 

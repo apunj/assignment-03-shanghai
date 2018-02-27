@@ -26,10 +26,7 @@
   <li>Work with the Information Architect and Designer for coding for the php, css, inc and js files.</li>
   <li>Check the webpages and styles meet W3C standards, the html and css pass validation, make sure the files and file system must be clean and follow industry best practices.</li>
 </ul>
-<<<<<<< HEAD
-=======
 
->>>>>>> 87179239910cbc6fa4f14d95965c2ee630d9b3ea
 </div>
 <div class="container">
 <h3 class = "headFont">Design Artist: Zhenghao Yang</h3>
@@ -39,10 +36,7 @@
 <li>Set up the consistant layout on the three student pages. Modify the layout on the homepage to make the slider javascript best fit for the homepage.</li>
 <li>Create the css style of all the articles, headings, and background on all four webpages.</li>
 <li>Create the style for navigation part, hover and is-current effect.</li>
-<<<<<<< HEAD
-=======
 
->>>>>>> 87179239910cbc6fa4f14d95965c2ee630d9b3ea
 </div>
 
 
