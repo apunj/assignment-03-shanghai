@@ -1,4 +1,6 @@
-<?php include 'html-top.inc.php';?>
+<?php include 'inc/html-top.inc.php';?>
+
+<?php include 'inc/nav.inc.php';?>
 
 <h1>Yidi Fan - Coder</h1>
 <h2>Computer Science Major, class of 2018</h2>
@@ -10,6 +12,8 @@
 
 <h3>Other Information</h3>
 <p>During summer 2017, I had a data analyst intern in Shanghai Information Center. I am a member of a group doing data cleaning and data mining, using the result to help with the decision-making of the government. During the internship, I learned how SQLite database system works and the specific process of data analyzing. I also help develop algorithms using python to do data cleaning in order to detect and remove the flaws in personal information database system, and we collected data from every subway stations in Shanghai and used data visualization to generate a heat map of population mobility. The progress and result are reported in the weekly meeting with the leader of the team. During summer 2016, I had an assurance intern in Ernst Young. I was a member of the team that audited a computer gaming company and made their financial statement. I am mainly responsible for loan review, loan confirmations and cash book review. I have enhanced my communication skills through professional interactions with clients and assisted the manager on the daily bases.</p>
-  <script src="js/scripts.js"></script>
+
+<?php include 'inc/scripts.inc.php';?>
+
 </body>
 </html>

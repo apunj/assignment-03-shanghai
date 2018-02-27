@@ -1,6 +1,8 @@
-<?php include 'html-top.inc.php';?>
+<?php include 'inc/html-top.inc.php';?>
 
-<!--> This is just the template form the original page! Let me know what to add on!<!-->
+<?php include 'inc/nav.inc.php';?>
+
+
 	<h1>Zhenghao Yang - Design Artist</h1>
 <h2>Financial Economics Major, class of 2018</h2>
 <h3>About Me</h3>
@@ -12,6 +14,7 @@
 <h3>Other Information</h3>
 <p>Considering work and internship experience, I designed python, SQL and SAS programs to conduct data analysis, auto-classify funds by category, analyze attribution, generate report, calculate maximum drop down, and update performance ranking, working on excel for daily reporting purpose. In addition, I collected request from senior analysts and cooperated with IT section to realize desired functionsWorking with senior employers, I researched and examined bill risk and credit risk among branches within the province and assisted a round of Securitization of Non-Performing Assets. I visited real assets in various locations and collecting information necessary for pricing analysis, checked and improved manual records of bad debts, facilitating packing, verification and cancellation. Also, I worked under the Section of Foreign Debt and Foreign Investment, helped legal people of local firms with business profiles and reporting paperwork written in English, contacted companies and counterparty commercial banks to ensure compliance with regulations of the State Administration of Foreign Exchange.</p>
 
-  <script src="js/scripts.js"></script>
+<?php include 'inc/scripts.inc.php';?>
+
 </body>
 </html>

@@ -1,4 +1,6 @@
-<?php include 'html-top.inc.php';?>
+<?php include 'inc/html-top.inc.php';?>
+
+<?php include 'inc/nav.inc.php';?>
 
 <h1>Yuanzhuo Wang - Information Architect</h1>
 <h2>Computer Science Major, Class of 2021</h2>
@@ -11,7 +13,7 @@
 <h3>Other Information</h3>
 <p>During August 2015 , I have a intern at Occupational Health and Environment Department of Industrial Technology Research Institute of Suzhou University, where I work with stuff to collect pollution sampling from companies and analyze samples in the laboratory and monitor the corporate environmental hygiene. Also, during 2016-2017, I worked as Teaching Asistant at European and American International Study Centre. I have Intern at Bank of Communications ZJG Sub-branch, where Do intern in the international business department,learning about the daily operation of banks and corporate trade. During high school, I worked in the Students Union as Head of Section of Public Relations, where organizing various school events such as Christmas Party, Halloween Festival and Football Matches. Publicity for provisional MUN events, arrangement of assembly room and hotel for students from different cities, cooperation with sponsors.</p>
 
+<?php include 'inc/scripts.inc.php';?>
 
-  <script src="js/scripts.js"></script>
 </body>
 </html>

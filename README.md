@@ -1,2 +1,17 @@
 # assignment-03-shanghai
-My name is Alexander Punj (apunj) and I am the IA!
+
+
+## Information Architect - Alexander Punj
+ - Responsibility 1
+ - Responsibility 2
+ - Responsibility 3
+
+## Designer - Josh Whitehouse
+ - Responsibility 1
+ - Responsibility 2
+ - Responsibility 3
+
+## Coder - Noah Gorstein
+ - Responsibility 1
+ - Responsibility 2
+ - Responsibility 3
