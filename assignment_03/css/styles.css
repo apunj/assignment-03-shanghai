@@ -5,4 +5,18 @@ body {
 
 img {
   border-radius: 6px;
+  margin: 20px auto;
+}
+
+nav ul li:first-child { float: left}
+
+nav ul li {
+  list-style: none;
+  float: right;
+
+}
+
+#sliderWrapper {
+  width: 100%;
+  margin: 0 auto;
 }

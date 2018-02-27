@@ -16,7 +16,7 @@
   <li>Design and make the Java Script slider show plugin on the homepage.</li>
   <li>Work with the Information Architect and Designer for coding for the php, css, inc and js files.</li>
   <li>Check the webpages and styles meet W3C standards, the html and css pass validation, make sure the files and file system must be clean and follow industry best practices.</li>
-
+</ul>
 <h3>Design Artisit: Zhenghao Yang</h3>
 <ul>
   <li>Responsible for maintaining readability of web pages and ensuring a professional and stylish presentation of the content.</li>
