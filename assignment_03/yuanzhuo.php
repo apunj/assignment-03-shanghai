@@ -1,4 +1,4 @@
-<?php include 'inc/html-top.inc.php';?>
+<?php $page = 'yuanzhuo'; include 'inc/html-top.inc.php';?>
 
 <?php include 'inc/nav.inc.php';?>
 

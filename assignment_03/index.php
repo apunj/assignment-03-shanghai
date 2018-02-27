@@ -1,6 +1,12 @@
-<?php include 'inc/html-top.inc.php';?>
+<?php $page = 'home'; include 'inc/html-top.inc.php';?>
 
 <?php include 'inc/nav.inc.php';?>
+
+<div class="slider">
+  <div><img src='images/yidi.jpg' /></div>
+  <div><img src='images/yuanzhuo.jpg' /></div>
+  <div><img src='images/zhenghao.jpg' /></div>
+</div>
 
 
 <h2>Our Team:</h2>
@@ -17,18 +23,13 @@
   <li>Work with the Information Architect and Designer for coding for the php, css, inc and js files.</li>
   <li>Check the webpages and styles meet W3C standards, the html and css pass validation, make sure the files and file system must be clean and follow industry best practices.</li>
 </ul>
-<h3>Design Artisit: Zhenghao Yang</h3>
+
+<h3>Design Artist: Zhenghao Yang</h3>
 <ul>
   <li>Responsible for maintaining readability of web pages and ensuring a professional and stylish presentation of the content.</li>
 <li>Set up the consistant layout on the three student pages. Modify the layout on the homepage to make the slider javascript best fit for the homepage.</li>
 <li>Create the css style of all the articles, headings, and background on all four webpages.</li>
 <li>Create the style for navigation part, hover and is-current effect.</li>
-
-<div class="slider">
-  <div><img src='images/yidi.jpg' /></div>
-  <div><img src='images/yuanzhuo.jpg' /></div>
-  <div><img src='images/zhenghao.jpg' /></div>
-</div>
 
 
 <?php include 'inc/scripts.inc.php';?>
