@@ -1,5 +1,6 @@
 <?php $page = 'home'; include 'inc/html-top.inc.php';?>
 
+<?php include 'inc/nav.inc.php';?>
 
 <div class="slider">
   <div><img src='images/yidi.jpg' /></div>
