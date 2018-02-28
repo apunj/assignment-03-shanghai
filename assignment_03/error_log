@@ -1,0 +1,2 @@
+[27-Feb-2018 21:15:00 America/Denver] PHP Warning:  include(inc/scripts.inc.php): failed to open stream: No such file or directory in /home3/urcscon3/public_html/assignment03/assignment-03-shanghai/assignment_03/yidi.php on line 21
+[27-Feb-2018 21:15:00 America/Denver] PHP Warning:  include(): Failed opening 'inc/scripts.inc.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home3/urcscon3/public_html/assignment03/assignment-03-shanghai/assignment_03/yidi.php on line 21

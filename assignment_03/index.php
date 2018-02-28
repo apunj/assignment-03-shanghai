@@ -3,9 +3,9 @@
 <?php include 'inc/nav.inc.php';?>
 
 <div class="slider">
-  <div><img src='images/yidi.jpg' /></div>
-  <div><img src='images/yuanzhuo.jpg' /></div>
-  <div><img src='images/zhenghao.jpg' /></div>
+  <div><img src='images/yidi.jpg' alt="Yidi"/></div>
+  <div><img src='images/yuanzhuo.jpg' alt="Yuanzhuo" /></div>
+  <div><img src='images/zhenghao.jpg' alt="Zhenghao"/></div>
 </div>
 
 <div class="container">
@@ -37,7 +37,7 @@
   <li>Set up the consistant layout on the three student pages. Modify the layout on the homepage to make the slider javascript best fit for the homepage.</li>
   <li>Create the css style of all the articles, headings, and background on all four webpages.</li>
   <li>Create the style for navigation part, hover and is-current effect.</li>
-
+  </ul>
 </div>
 
 
