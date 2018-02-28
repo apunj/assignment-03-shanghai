@@ -2,8 +2,9 @@ $(document).ready(function(){
   //slider code
   $('.slider').slick({
     fade: true,
-    arrows: true,
+    slidesToShow: 1,
+    slidesToScroll: 1,
     autoplay: true,
-    autoplaySpeed: 2000
+    autoplaySpeed: 1000,
   });
 });
