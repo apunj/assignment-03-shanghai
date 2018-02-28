@@ -2,8 +2,8 @@
 
 <?php include 'inc/nav.inc.php';?>
 
-<h1 class="headFont centered" >Yidi Fan - Coder</h1>
-<h4 class="headFont centered gray">Computer Science Major, class of 2018</h4>
+<h1 class="headFont centered topHeader" >Yidi Fan - Coder</h1>
+<h4 class="headFont centered gray">Computer Science Major - Class of 2018</h4>
 
 <hr>
 <div class="container">
