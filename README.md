@@ -2,9 +2,9 @@
 
 
 ## Information Architect - Alexander Punj
- - Responsibility 1
- - Responsibility 2
- - Responsibility 3
+ - used HTML to develop the information of the websites
+ - Created the readme
+ - Styled the HTML to fit bootstrap framework
 
 ## Designer - Josh Whitehouse
  - Implemented the CSS using a bootstrap framework
