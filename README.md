@@ -15,3 +15,5 @@
  - used PHP Includes to factor-out common elements like the navigation element, and script tags
  - cleaned up and organized the file directory to follow industry standards
  - implemented the image slider on the homepage using a plugin called slick http://kenwheeler.github.io/slick/
+ - wrote code (in PHP) to make the current page 'highlighted' when the page was active
+ - validated the HTML and CSS using W3C
